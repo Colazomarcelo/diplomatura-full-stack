@@ -1,3 +1,11 @@
+.imag-logo {
+
+    width: 150;
+    height: 150;
+
+}
+
+
 .sombra {
     text-shadow: 2px 7px 2px rgba(0, 0, 0, 0.15);
 }
@@ -45,7 +53,7 @@ h1 {
 
 .destacados4 {
 
-.p3 {
+    .p3 {
         background-color: rgb(223, 221, 225);
         padding: 20px;
         margin: 20px 20px 20px 20px;
