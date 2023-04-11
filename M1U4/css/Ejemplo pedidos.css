@@ -28,23 +28,20 @@ h1 {
 }
 
 .columna-1 {
-
     background-color: rgb(223, 221, 225);
     padding: 20px;
-    margin: 0 15px;
+    margin: 15px;
     border-radius: 10px;
 }
 
 .columna-2 {
-
-    background-color: rgb(223, 221, 225);
+background-color: rgb(223, 221, 225);
     padding: 20px;
-    margin: 0 15px;
+    margin: 15px;
     border-radius: 10px;
 }
 
 .destacados4 {
-
     .p3 {
         background-color: rgb(223, 221, 225);
         padding: 20px;
