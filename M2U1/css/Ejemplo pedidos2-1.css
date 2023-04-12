@@ -33,42 +33,34 @@ h1 {
 
 .destacados3 {
     display: flex;
+    color: #ffffff;
 }
 
 .columna-1 {
 
-    background-color: rgb(223, 221, 225);
+    background-color: rgb(92, 74, 255);
     padding: 20px;
-    margin: 0 15px;
+    margin: 20px;
     border-radius: 10px;
 }
 
 .columna-2 {
 
-    background-color: rgb(223, 221, 225);
+    background-color: rgb(114, 137, 252);
     padding: 20px;
-    margin: 0 15px;
+    margin: 20px;
     border-radius: 10px;
 }
 
 .destacados4 {
+    display: flex;
+}
 
-    .p3 {
-        background-color: rgb(223, 221, 225);
-        padding: 20px;
-        margin: 20px 20px 20px 20px;
-        border-radius: 10px;
+.columna-3 {
 
-    }
-
-
-
-
-
-
-
-
-
-
-
+    color: aqua;
+    background-color: rgb(126, 171, 255);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
 }
