@@ -1,8 +1,11 @@
-.img {
+/*
+font-family: 'Prompt', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
 
+.img {
     width: 150;
     height: 150;
-
 }
 
 
@@ -11,9 +14,51 @@
 }
 
 h1 {
-    color: blueviolet;
+    color: rgb(43, 61, 41);
     font-family: 'Roboto', sans-serif;
 }
+
+h2 {
+    color: rgb(255, 251, 31);
+    font-family: 'Prompt', sans-serif;
+}
+
+h3 {
+    font-family: 'Prompt', sans-serif;
+}
+
+h4 {
+    color: rgb(45, 22, 107);
+    font-size: 33px;
+    font-family: 'Prompt', sans-serif;
+}
+
+h5 {
+    color: rgb(67, 63, 94);
+    font-family: 'Prompt', sans-serif;
+}
+
+.sub22 {
+
+    color: rgb(215, 9, 16);
+    font-size: 33px;
+    font-family: 'Prompt', sans-serif;
+
+}
+
+/* Falta separa */
+
+.ver-33 {
+    display: flex;
+
+}
+.txt-1 {
+    margin: 0px 50px;
+
+
+}
+
+
 
 
 .destacados {
@@ -42,6 +87,7 @@ h1 {
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .columna-2 {
@@ -50,6 +96,7 @@ h1 {
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .destacados4 {
@@ -58,9 +105,10 @@ h1 {
 
 .columna-3 {
 
-    color: aqua;
+    color: rgb(0, 0, 0);
     background-color: rgb(126, 171, 255);
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
+    font-family: 'Prompt', sans-serif;
 }
