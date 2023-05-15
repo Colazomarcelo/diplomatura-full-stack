@@ -1,0 +1,137 @@
+.contenedor1 {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.item1-1 {
+
+    background-color: rgb(255, 0, 0);
+    width: 100px;
+    height: 100px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.item1-2 {
+    background-color: rgb(21, 0, 255);
+    width: 100px;
+    height: 100px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.item1-3 {
+    background-color: rgb(15, 112, 3);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+
+.contenedor2 {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row-reverse;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.item2-1 {
+    background-color: rgb(255, 0, 0);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+
+}
+
+.item2-2 {
+    background-color: rgb(21, 0, 255);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.item2-3 {
+    background-color: rgb(15, 112, 3);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+
+}
+
+
+.contenedor3 {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+
+    border: 1px solid black;
+}
+
+
+.item3-1 {
+    background-color: rgb(255, 0, 0);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+
+}
+
+.item3-2 {
+    background-color: rgb(21, 0, 255);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.item3-3 {
+    background-color: rgb(15, 112, 3);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
