@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .alumno {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .aprobado {
+    background-color: #a3e9a4;
+  }
+  
+  .nota {
+    font-weight: bold;
+    padding: 5px;
+  }
+  
