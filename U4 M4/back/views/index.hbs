@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+    <hr />
+
+    <h1>{{ nombrex }}</h1>
+    {{#if conocido}}
+    <p>Hola {{ nombre }}, bienvenido/a de nuevo.</p>
+    {{else}}
+
+
+    <form action="/buscar" method="GET">
+        <label for="idProducto">Ingresa el ID del producto 1,2 ó 3 :</label>
+        <input type="number" id="idProducto" name="idProducto" required>
+        <button type="submit">Buscar</button>
+    </form>
+    {{/if}}
+
+    <hr />
+
+    <h1>{{title}}</h1>
+    {{#if conocido}}
+    <p>Hola {{nombre}} <a href="/salir">Salir</a></p>
+    {{/if}}
+
+    {{#unless conocido}}
+    <p>ingresa tu Nombre para tu consulta</p>
+    <form action="/ingresar" method="post">
+        <input type="text" name="nombre"><button>ingresa</button>
+    </form>
+    {{/unless}}
+
+
+        <hr />
+
+    Profesora, si en la app.js elimina el comentario se vera el ejercicio 1 que enseño en esta clase, tambien. saludos 
+</body>
+
+</html>
